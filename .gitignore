@@ -1,0 +1,8 @@
+# Ignore .DS_Store files\
+.DS_Store
+
+#Ignore files in the \'93mixed-message\'94 directory\
+mixed-message/
+
+#Ignore log files\
+*.log
